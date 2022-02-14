@@ -1,0 +1,1 @@
+Korners Personal slackware packages
